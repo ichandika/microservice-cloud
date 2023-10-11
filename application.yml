@@ -19,4 +19,4 @@ microservice:
         uri: http://ORDER-SERVICE/order-service/bookOrder
 
 test:
-  value: String-boot
+  value: String-boot-booy
